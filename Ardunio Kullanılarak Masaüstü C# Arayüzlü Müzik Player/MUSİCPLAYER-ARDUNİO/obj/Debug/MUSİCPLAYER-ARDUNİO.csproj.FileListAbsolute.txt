@@ -1,0 +1,30 @@
+C:\Users\ASUS\source\repos\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\bin\Debug\MUSİCPLAYER-ARDUNİO.exe.config
+C:\Users\ASUS\source\repos\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\bin\Debug\MUSİCPLAYER-ARDUNİO.exe
+C:\Users\ASUS\source\repos\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\bin\Debug\MUSİCPLAYER-ARDUNİO.pdb
+C:\Users\ASUS\source\repos\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\bin\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\source\repos\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\source\repos\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER-ARDUNİO.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\source\repos\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\source\repos\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER-ARDUNİO.csproj.ResolveComReference.cache
+C:\Users\ASUS\source\repos\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER_ARDUNİO.Form1.resources
+C:\Users\ASUS\source\repos\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER_ARDUNİO.Properties.Resources.resources
+C:\Users\ASUS\source\repos\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER-ARDUNİO.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER-ARDUNİO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER-ARDUNİO.exe
+C:\Users\ASUS\source\repos\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER-ARDUNİO.pdb
+D:\PROGRAM PROJELERİM\C# Gelişmiş Uygulamlar ve Pdfler\ardunio music player\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\bin\Debug\MUSİCPLAYER-ARDUNİO.exe.config
+D:\PROGRAM PROJELERİM\C# Gelişmiş Uygulamlar ve Pdfler\ardunio music player\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\bin\Debug\MUSİCPLAYER-ARDUNİO.exe
+D:\PROGRAM PROJELERİM\C# Gelişmiş Uygulamlar ve Pdfler\ardunio music player\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\bin\Debug\MUSİCPLAYER-ARDUNİO.pdb
+D:\PROGRAM PROJELERİM\C# Gelişmiş Uygulamlar ve Pdfler\ardunio music player\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\bin\Debug\Interop.WMPLib.dll
+D:\PROGRAM PROJELERİM\C# Gelişmiş Uygulamlar ve Pdfler\ardunio music player\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\bin\Debug\AxInterop.WMPLib.dll
+D:\PROGRAM PROJELERİM\C# Gelişmiş Uygulamlar ve Pdfler\ardunio music player\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER-ARDUNİO.csprojAssemblyReference.cache
+D:\PROGRAM PROJELERİM\C# Gelişmiş Uygulamlar ve Pdfler\ardunio music player\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\Interop.WMPLib.dll
+D:\PROGRAM PROJELERİM\C# Gelişmiş Uygulamlar ve Pdfler\ardunio music player\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\AxInterop.WMPLib.dll
+D:\PROGRAM PROJELERİM\C# Gelişmiş Uygulamlar ve Pdfler\ardunio music player\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER-ARDUNİO.csproj.ResolveComReference.cache
+D:\PROGRAM PROJELERİM\C# Gelişmiş Uygulamlar ve Pdfler\ardunio music player\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER_ARDUNİO.Form1.resources
+D:\PROGRAM PROJELERİM\C# Gelişmiş Uygulamlar ve Pdfler\ardunio music player\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER_ARDUNİO.Properties.Resources.resources
+D:\PROGRAM PROJELERİM\C# Gelişmiş Uygulamlar ve Pdfler\ardunio music player\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER-ARDUNİO.csproj.GenerateResource.cache
+D:\PROGRAM PROJELERİM\C# Gelişmiş Uygulamlar ve Pdfler\ardunio music player\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER-ARDUNİO.csproj.CoreCompileInputs.cache
+D:\PROGRAM PROJELERİM\C# Gelişmiş Uygulamlar ve Pdfler\ardunio music player\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER-ARDUNİO.exe
+D:\PROGRAM PROJELERİM\C# Gelişmiş Uygulamlar ve Pdfler\ardunio music player\MUSİCPLAYER-ARDUNİO\MUSİCPLAYER-ARDUNİO\obj\Debug\MUSİCPLAYER-ARDUNİO.pdb
